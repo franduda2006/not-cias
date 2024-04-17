@@ -251,7 +251,7 @@ main{
         grid-column: 1/4 ;
     }
 
-    .terceira-seção a:hover{
+    .terceira-seção h2:hover{
         color: var(--vermillion);
     }
 
